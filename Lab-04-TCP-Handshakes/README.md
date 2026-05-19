@@ -12,7 +12,8 @@ Steps Performed
 - Analyzed connection establishment process
 
 Filters Used
-tcp.flags.syn == 1
+- tcp
+- tcp.flags.syn == 1
 
 Observations
 - TCP uses a three-way handshake to establish connections.

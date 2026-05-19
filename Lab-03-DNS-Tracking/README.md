@@ -13,7 +13,8 @@ Steps Performed
 - Observed multiple IP addresses in responses
 
 Filters Used
-- dns 
+- dns
+- dns.qry.name contains "google"
 
 Observations
 - DNS translates domain names into IP addresses.

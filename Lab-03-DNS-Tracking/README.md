@@ -13,7 +13,7 @@ Steps Performed
 - Observed multiple IP addresses in responses
 
 Filters Used
-dns 
+- dns 
 
 Observations
 - DNS translates domain names into IP addresses.

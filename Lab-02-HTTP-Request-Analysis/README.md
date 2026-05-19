@@ -13,8 +13,8 @@ Steps Performed
 - Inspected packet details
 
 Filters Used
-http
-http.request.method == "GET"
+- http 
+- http.request.method == "GET"
 
 Observations
 - GET requests are used to request data from a server.
